@@ -1,0 +1,50 @@
+📌 **Project Run Karvani Step-by-Step Process**
+
+**1️⃣ Pela aa banne software download kari leje:**
+- Node.js
+- MongoDB Compass
+
+**2️⃣ Pachi project ne VS Code ma open karje.**
+
+**3️⃣ Have VS Code ma 3 Terminal open karje:**
+
+🖥️ **Terminal 1:**
+```bash
+cd admin
+```
+
+🖥️ **Terminal 2:**
+```bash
+cd client
+```
+
+🖥️ **Terminal 3:**
+```bash
+cd server
+```
+
+**4️⃣ Have traney Terminal ma `npm install` command run karje.**
+
+⏳ Installation complete thay tya sudhi wait karje. Badha folders ma installation successfully complete thai jay pachi aagal nu step karje.
+
+**5️⃣ Have traney Terminal ma `npm start` command run karje.** 🚀
+
+Aa pachi project run thava lagse ane admin panel ane client website browser ma automatically open thai jashe.
+
+📧 **Order Confirm Thay Pachi Email Moklavo Hoy To:**
+
+Jo order confirm thay pachi customer ne email mokalvo hoy, to `server` folder ma `.env` file open karje.
+
+Aema niche mujab details add karje:
+
+```env
+EMAIL="taru_email_id"
+EMAIL_PASS="tara_email_id_no_app_password"
+```
+
+- **EMAIL:** Je Gmail ID mathi email mokalvo hoy e.
+- **EMAIL_PASS:** E Gmail ID no App Password. Aa password kevi rite generate karvo e online joi leje.
+
+⚠️ **Important:** Gmail no normal password nahi, pan Google Account mathi generate karelo 16-digit App Password use karje. Aa details koi sathe share na karto.
+
+✅ Bas, aa badha steps properly follow karje etle project run thai jase!

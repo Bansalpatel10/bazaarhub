@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+**/coverage/
+
+# Production
+build/
+dist/
+**/build/
+**/dist/
+
+# Misc
+.DS_Store
+.sixth/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
